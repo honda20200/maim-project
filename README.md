@@ -18,7 +18,7 @@ This app is **offline-first** and uses **Hive** for local storage, so all data p
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/patient_appointment.git
+git clone https://github.com/honda20200/maim-project.git
 cd patient_appointment
 ```
 
@@ -78,7 +78,7 @@ flutter build apk --release
 
 ## 📷 Screenshots
 
-| Onboarding | Sign In | doctoe|
+| Onboarding | Sign In | doctor|
 |--------|------------|------------|
 | ![](screens/onboading.jpg) | ![](screens/signin.jpg) | ![](screens/role.jpg) |
 
